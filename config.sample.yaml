@@ -1,0 +1,6 @@
+api:
+  bearer_token: "your_api_key_here"  # Bearer APIキー
+  bulk_api_url: "http://example.com/LLMKnowledge2/common/bulk-api.php"  # Bulk APIのURL
+  group_id: 1  # グループID 
+debug:
+  enabled: false  # デバッグログを有効化するフラグ
